@@ -1,6 +1,7 @@
 # ChronoHub Community
+**ChronoHub** is a Filipino community that is dedicated to guide & tutor any student who has an interest to start their career journey into Computer Technology, the aim is to facilitate every student to a better path & to have the opportunity to contribute to the aforementioned field.
 
-**Requirements to join:**
+**Requirements to Join:**
 1. Create a [GitHub account](https://github.com/join) & [Replit account](https://replit.com/signup). Please setup your account in a formal way.
 2. Download [Visual Studio Code](https://code.visualstudio.com/download) (VSCode)
 
